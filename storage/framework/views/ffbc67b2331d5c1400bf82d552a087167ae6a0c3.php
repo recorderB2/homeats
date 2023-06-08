@@ -1,0 +1,1 @@
+this is the nav file<?php /**PATH C:\laragon\www\homeats\resources\views/components/nav.blade.php ENDPATH**/ ?>

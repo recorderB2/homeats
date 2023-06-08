@@ -1,0 +1,1 @@
+this is the header file<?php /**PATH C:\laragon\www\homeats\resources\views/components/header.blade.php ENDPATH**/ ?>

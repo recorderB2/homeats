@@ -1,0 +1,1 @@
+this is the footer file<?php /**PATH C:\laragon\www\homeats\resources\views/components/footer.blade.php ENDPATH**/ ?>
